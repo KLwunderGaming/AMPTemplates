@@ -1,0 +1,27 @@
+[
+    {
+        "ConfigFile": "AnimaliaSurvival\\Saved\\Config\\WindowsServer\\ServerSettings",
+        "ConfigType": "ini",
+        "AutoMap": true
+    },
+    {
+        "ConfigFile": "AnimaliaSurvival\\Saved\\Config\\WindowsServer\\Engine",
+        "ConfigType": "ini",
+        "AutoMap": true
+    },
+    {
+        "ConfigFile": "AnimaliaSurvival\\Saved\\Config\\WindowsServer\\GameUserSettings",
+        "ConfigType": "ini",
+        "AutoMap": true
+    },
+    {
+        "ConfigFile": "AnimaliaSurvival\\Adminlist",
+        "ConfigType": "",
+        "AutoMap": false
+    },
+    {
+        "ConfigFile": "AnimaliaSurvival\\banlist",
+        "ConfigType": "",
+        "AutoMap": false
+    }
+]
